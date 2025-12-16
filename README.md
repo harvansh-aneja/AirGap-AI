@@ -21,6 +21,26 @@ This behavior is **by design**.
 
 ---
 
+## 📁 Documentation & Screenshots
+
+### Documentation
+The [`docs/`](./docs) folder contains the primary project deliverables:
+
+- **Final_Report.pdf** — Complete capstone report detailing design, implementation, and evaluation
+- **Poster.pdf** — Capstone showcase poster
+- **Booth_Handout.pdf** — Two-page project overview and summary for booth visitors
+
+### Screenshots
+The [`screenshots/`](./screenshots) folder contains example screenshots demonstrating:
+
+- Normal technical support interactions
+- Offline operation and knowledge boundaries
+- Refusal of unsafe, non-compliant, or clinical requests
+
+These materials are provided for reference and review.
+
+---
+
 ## 🔍 Problem Statement
 
 Organizations operating in regulated environments face major challenges when adopting cloud-based AI tools:
